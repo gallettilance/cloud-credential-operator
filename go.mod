@@ -1,4 +1,4 @@
-module github.com/openshift/cloud-credential-operator
+module github.com/gallettilance/cloud-credential-operator
 
 go 1.19
 
@@ -57,6 +57,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.1.0
 	github.com/microsoft/kiota-authentication-azure-go v0.5.0
 	github.com/microsoftgraph/msgraph-sdk-go v0.44.0
+	github.com/openshift/cloud-credential-operator v0.0.0-20230420133103-44aef7f1f9eb
 )
 
 require (
